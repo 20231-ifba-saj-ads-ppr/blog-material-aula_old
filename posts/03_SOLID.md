@@ -603,8 +603,6 @@ Outras opções são de CDI em java são:
 - *Google Guice*: é um framework de injeção de dependência leve e fácil de usar, que utiliza anotações para definir as dependências entre classes. O Guice foi criado pela Google e é usado em alguns projetos internos da empresa.
 - *PicoContainer*: é um framework de injeção de dependência que oferece uma solução simples e eficiente para gerenciamento de objetos. O PicoContainer é leve e fácil de usar, e permite a criação de aplicativos modulares e escaláveis.
 
-# Referências
+## Referências
 
-@include(../bib/bib.md)
-
-
+<!-- @include: ../bib/bib.md -->

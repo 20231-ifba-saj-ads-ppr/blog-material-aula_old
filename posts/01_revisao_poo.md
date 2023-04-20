@@ -9,7 +9,7 @@ category:
 order: 1
 ---
 # Revisão POO
-
+[^caelumoo] [^Deitel]
 ## Objeto
 
 - Um objeto é cada uma das entidades identificáveis num dado domínio de aplicação
@@ -1176,3 +1176,6 @@ saida
 - Maior segurança de dados
 
 
+## Referências
+
+<!-- @include: ../bib/bib.md -->

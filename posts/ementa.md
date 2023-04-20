@@ -9,7 +9,6 @@ star: true
 index: false
 ---
 
-
 # Plano de Curso de Disciplina do Ensino Superior
 
 

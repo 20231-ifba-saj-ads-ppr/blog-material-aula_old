@@ -7,6 +7,7 @@ tag:
 category:
   - aula
 order: 4
+excerpt: Apresentação do Padrão de Projeto Strategy
 ---
 
 # Strategy (GOF)
@@ -323,4 +324,4 @@ ObjectWindows utiliza objetos Validator para encapsular estratégias de validaç
 
 ## Referências
 
-@include(../bib/bib.md)
+<!-- @include: ../bib/bib.md -->

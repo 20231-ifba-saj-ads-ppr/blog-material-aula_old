@@ -1662,4 +1662,6 @@ A `interface` é um tipo específico de classe abstrata onde existe apenas as de
 
 
 
-@include(../bib/bib.md)
+## Referências
+
+<!-- @include: ../bib/bib.md -->

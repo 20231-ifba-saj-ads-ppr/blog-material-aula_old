@@ -59,7 +59,7 @@ export default hopeTheme({
       filter: ({ filePathRelative }) =>
         filePathRelative ? filePathRelative.startsWith("posts/") : false,
       
-      excerptLength:0,
+      excerptLength: 1,
     },
 
     pwa: true,
