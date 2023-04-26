@@ -10,7 +10,7 @@ order: 10
 excerpt: Apresentação do Padrão de Projeto XX
 ---
 
-# XX (GOF)
+# XX (Modelo)
 
 [^GAMMA]
 
